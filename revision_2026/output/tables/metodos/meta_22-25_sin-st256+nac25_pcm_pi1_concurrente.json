@@ -1,0 +1,70 @@
+{
+ "tag": "22-25_sin-st256+nac25_pcm_pi1_concurrente",
+ "olas": [
+  2022,
+  2025
+ ],
+ "items": "sin:st256+nac25",
+ "modelo": "pcm",
+ "pi": 1,
+ "calib": "concurrente",
+ "umbral": 0.25,
+ "paises": [
+  "AUS",
+  "AUT",
+  "BEL",
+  "CAN",
+  "CHE",
+  "CHL",
+  "COL",
+  "CZE",
+  "DEU",
+  "DNK",
+  "ESP",
+  "EST",
+  "FIN",
+  "FRA",
+  "GBR",
+  "GRC",
+  "HUN",
+  "IRL",
+  "ISL",
+  "ISR",
+  "ITA",
+  "JPN",
+  "KOR",
+  "LTU",
+  "LVA",
+  "MEX",
+  "NLD",
+  "NOR",
+  "NZL",
+  "POL",
+  "PRT",
+  "SVK",
+  "SVN",
+  "SWE",
+  "TUR",
+  "USA"
+ ],
+ "n_slots": 19,
+ "n_propios": 132,
+ "historial": [
+  {
+   "ronda": 0,
+   "pares_malos": 47,
+   "rmsd_max": 0.7358900543916448
+  },
+  {
+   "ronda": 1,
+   "pares_malos": 8,
+   "rmsd_max": 0.585068790010661
+  },
+  {
+   "ronda": 2,
+   "pares_malos": 0,
+   "rmsd_max": 0.24816844082395223
+  }
+ ],
+ "segundos": 744.1992189884186
+}

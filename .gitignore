@@ -292,3 +292,9 @@ tools/docx2overleaf/
 
 # Local audit reports, diagnostics, logs and historical snapshots
 /audit/
+
+# Revision 2026: working data of the Section 4 scripts (rebuilt locally); manuscript work folder
+/revision_2026/data/metodos/
+/revision_2026/output/logs/
+/revision_november_2026/
+.DS_Store

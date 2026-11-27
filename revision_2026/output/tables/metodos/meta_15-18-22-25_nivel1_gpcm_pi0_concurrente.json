@@ -1,0 +1,60 @@
+{
+ "tag": "15-18-22-25_nivel1_gpcm_pi0_concurrente",
+ "olas": [
+  2015,
+  2018,
+  2022,
+  2025
+ ],
+ "items": "lista:room,bathrooms,instruments,cars",
+ "modelo": "gpcm",
+ "pi": 0,
+ "calib": "concurrente",
+ "umbral": 0.25,
+ "paises": [
+  "AUS",
+  "AUT",
+  "BEL",
+  "CAN",
+  "CHE",
+  "CHL",
+  "CZE",
+  "DEU",
+  "DNK",
+  "ESP",
+  "EST",
+  "FIN",
+  "FRA",
+  "GBR",
+  "GRC",
+  "HUN",
+  "IRL",
+  "ISL",
+  "ISR",
+  "ITA",
+  "JPN",
+  "KOR",
+  "LVA",
+  "MEX",
+  "NLD",
+  "NOR",
+  "NZL",
+  "POL",
+  "PRT",
+  "SVK",
+  "SVN",
+  "SWE",
+  "TUR",
+  "USA"
+ ],
+ "n_slots": 4,
+ "n_propios": 0,
+ "historial": [
+  {
+   "ronda": 0,
+   "pares_malos": 0,
+   "rmsd_max": 0.34156999939644633
+  }
+ ],
+ "segundos": 1386.9444601535797
+}

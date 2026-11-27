@@ -1,0 +1,5 @@
+set,item,etiqueta,a,b,fijo,n_grupos,grupos,modelo
+0,room,room,0.7839599200945313,-2.6559,False,202,,pool
+1,bathrooms,bathrooms,1.995166988505878,-2.5939;0.1630;1.4336,False,200,,pool
+2,instruments,instruments,0.29689634173480467,0.8459;1.7484;-0.5847,False,209,,pool
+3,cars,cars,0.7812067421019522,-2.3427;-0.3507;1.3805,False,207,,pool

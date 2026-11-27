@@ -1,0 +1,80 @@
+{
+ "tag": "22-25_todos_gpcm_pi1_concurrente_u15",
+ "olas": [
+  2022,
+  2025
+ ],
+ "items": "todos",
+ "modelo": "gpcm",
+ "pi": 1,
+ "calib": "concurrente",
+ "umbral": 0.15,
+ "paises": [
+  "AUS",
+  "AUT",
+  "BEL",
+  "CAN",
+  "CHE",
+  "CHL",
+  "COL",
+  "CZE",
+  "DEU",
+  "DNK",
+  "ESP",
+  "EST",
+  "FIN",
+  "FRA",
+  "GBR",
+  "GRC",
+  "HUN",
+  "IRL",
+  "ISL",
+  "ISR",
+  "ITA",
+  "JPN",
+  "KOR",
+  "LTU",
+  "LVA",
+  "MEX",
+  "NLD",
+  "NOR",
+  "NZL",
+  "POL",
+  "PRT",
+  "SVK",
+  "SVN",
+  "SWE",
+  "TUR",
+  "USA"
+ ],
+ "n_slots": 45,
+ "n_propios": 132,
+ "historial": [
+  {
+   "ronda": 0,
+   "pares_malos": 327,
+   "rmsd_max": 0.7359651507098909
+  },
+  {
+   "ronda": 1,
+   "pares_malos": 66,
+   "rmsd_max": 0.6153223904124053
+  },
+  {
+   "ronda": 2,
+   "pares_malos": 23,
+   "rmsd_max": 0.39398182175319124
+  },
+  {
+   "ronda": 3,
+   "pares_malos": 6,
+   "rmsd_max": 0.4409823608746656
+  },
+  {
+   "ronda": 4,
+   "pares_malos": 0,
+   "rmsd_max": 0.1490121167852009
+  }
+ ],
+ "segundos": 2664.972272157669
+}

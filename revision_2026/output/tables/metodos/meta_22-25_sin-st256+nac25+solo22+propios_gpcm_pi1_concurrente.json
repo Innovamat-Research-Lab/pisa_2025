@@ -1,0 +1,70 @@
+{
+ "tag": "22-25_sin-st256+nac25+solo22+propios_gpcm_pi1_concurrente",
+ "olas": [
+  2022,
+  2025
+ ],
+ "items": "sin:st256+nac25+solo22+propios",
+ "modelo": "gpcm",
+ "pi": 1,
+ "calib": "concurrente",
+ "umbral": 0.25,
+ "paises": [
+  "AUS",
+  "AUT",
+  "BEL",
+  "CAN",
+  "CHE",
+  "CHL",
+  "COL",
+  "CZE",
+  "DEU",
+  "DNK",
+  "ESP",
+  "EST",
+  "FIN",
+  "FRA",
+  "GBR",
+  "GRC",
+  "HUN",
+  "IRL",
+  "ISL",
+  "ISR",
+  "ITA",
+  "JPN",
+  "KOR",
+  "LTU",
+  "LVA",
+  "MEX",
+  "NLD",
+  "NOR",
+  "NZL",
+  "POL",
+  "PRT",
+  "SVK",
+  "SVN",
+  "SWE",
+  "TUR",
+  "USA"
+ ],
+ "n_slots": 16,
+ "n_propios": 0,
+ "historial": [
+  {
+   "ronda": 0,
+   "pares_malos": 32,
+   "rmsd_max": 0.7386416247997448
+  },
+  {
+   "ronda": 1,
+   "pares_malos": 4,
+   "rmsd_max": 0.5314282674030751
+  },
+  {
+   "ronda": 2,
+   "pares_malos": 0,
+   "rmsd_max": 0.2490311279423063
+  }
+ ],
+ "segundos": 2138.743297100067
+}

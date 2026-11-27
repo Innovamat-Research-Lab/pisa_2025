@@ -1,0 +1,67 @@
+{
+ "tag": "22-25_comunes_gpcm_pi0_separada",
+ "olas": [
+  2022,
+  2025
+ ],
+ "items": "comunes",
+ "modelo": "gpcm",
+ "pi": 0,
+ "calib": "separada",
+ "umbral": 0.25,
+ "paises": [
+  "AUS",
+  "AUT",
+  "BEL",
+  "CAN",
+  "CHE",
+  "CHL",
+  "COL",
+  "CZE",
+  "DEU",
+  "DNK",
+  "ESP",
+  "EST",
+  "FIN",
+  "FRA",
+  "GBR",
+  "GRC",
+  "HUN",
+  "IRL",
+  "ISL",
+  "ISR",
+  "ITA",
+  "JPN",
+  "KOR",
+  "LTU",
+  "LVA",
+  "MEX",
+  "NLD",
+  "NOR",
+  "NZL",
+  "POL",
+  "PRT",
+  "SVK",
+  "SVN",
+  "SWE",
+  "TUR",
+  "USA"
+ ],
+ "n_slots": 16,
+ "n_propios": 0,
+ "historial": [
+  {
+   "ola": 2022,
+   "ronda": 0,
+   "pares_malos": 0,
+   "rmsd_max": 0.3597686805730513
+  },
+  {
+   "ola": 2025,
+   "ronda": 0,
+   "pares_malos": 0,
+   "rmsd_max": 0.7375150100653838
+  }
+ ],
+ "segundos": 169.04272508621216
+}
