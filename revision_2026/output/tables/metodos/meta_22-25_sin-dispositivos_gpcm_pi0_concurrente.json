@@ -1,0 +1,60 @@
+{
+ "tag": "22-25_sin-dispositivos_gpcm_pi0_concurrente",
+ "olas": [
+  2022,
+  2025
+ ],
+ "items": "lista:room,computer,software,own_phone,internet,art,cars,bathrooms,toilets,instruments,books",
+ "modelo": "gpcm",
+ "pi": 0,
+ "calib": "concurrente",
+ "umbral": 0.25,
+ "paises": [
+  "AUS",
+  "AUT",
+  "BEL",
+  "CAN",
+  "CHE",
+  "CHL",
+  "COL",
+  "CZE",
+  "DEU",
+  "DNK",
+  "ESP",
+  "EST",
+  "FIN",
+  "FRA",
+  "GBR",
+  "GRC",
+  "HUN",
+  "IRL",
+  "ISL",
+  "ISR",
+  "ITA",
+  "JPN",
+  "KOR",
+  "LTU",
+  "LVA",
+  "MEX",
+  "NLD",
+  "NOR",
+  "NZL",
+  "POL",
+  "PRT",
+  "SVK",
+  "SVN",
+  "SWE",
+  "TUR",
+  "USA"
+ ],
+ "n_slots": 11,
+ "n_propios": 0,
+ "historial": [
+  {
+   "ronda": 0,
+   "pares_malos": 0,
+   "rmsd_max": 0.7246357495701646
+  }
+ ],
+ "segundos": 237.4645869731903
+}

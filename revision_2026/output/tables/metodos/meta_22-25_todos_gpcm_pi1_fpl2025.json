@@ -1,0 +1,103 @@
+{
+ "tag": "22-25_todos_gpcm_pi1_fpl2025",
+ "olas": [
+  2022,
+  2025
+ ],
+ "items": "todos",
+ "modelo": "gpcm",
+ "pi": 1,
+ "calib": "fpl2025",
+ "umbral": 0.25,
+ "paises": [
+  "AUS",
+  "AUT",
+  "BEL",
+  "CAN",
+  "CHE",
+  "CHL",
+  "COL",
+  "CZE",
+  "DEU",
+  "DNK",
+  "ESP",
+  "EST",
+  "FIN",
+  "FRA",
+  "GBR",
+  "GRC",
+  "HUN",
+  "IRL",
+  "ISL",
+  "ISR",
+  "ITA",
+  "JPN",
+  "KOR",
+  "LTU",
+  "LVA",
+  "MEX",
+  "NLD",
+  "NOR",
+  "NZL",
+  "POL",
+  "PRT",
+  "SVK",
+  "SVN",
+  "SWE",
+  "TUR",
+  "USA"
+ ],
+ "n_slots": 45,
+ "n_propios": 132,
+ "historial": [
+  {
+   "ola": 2025,
+   "ronda": 0,
+   "pares_malos": 22,
+   "rmsd_max": 0.7390514817874572
+  },
+  {
+   "ola": 2025,
+   "ronda": 1,
+   "pares_malos": 4,
+   "rmsd_max": 0.4917556298681569
+  },
+  {
+   "ola": 2025,
+   "ronda": 2,
+   "pares_malos": 0,
+   "rmsd_max": 0.23951054815776726
+  },
+  {
+   "ola": 2022,
+   "ronda": 0,
+   "pares_malos": 46,
+   "rmsd_max": 0.5056101284125177
+  },
+  {
+   "ola": 2022,
+   "ronda": 1,
+   "pares_malos": 8,
+   "rmsd_max": 0.2927562302668295
+  },
+  {
+   "ola": 2022,
+   "ronda": 2,
+   "pares_malos": 4,
+   "rmsd_max": 0.2598734927253926
+  },
+  {
+   "ola": 2022,
+   "ronda": 3,
+   "pares_malos": 2,
+   "rmsd_max": 0.2597885653206036
+  },
+  {
+   "ola": 2022,
+   "ronda": 4,
+   "pares_malos": 1,
+   "rmsd_max": 0.25938446910126906
+  }
+ ],
+ "segundos": 2215.6308810710907
+}

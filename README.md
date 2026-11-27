@@ -21,6 +21,10 @@ Mathematics, change 2022 → 2025 in the Q4 − Q1 gap, simple average of 36 OEC
 
 The same comparison gives −16.9 against −2.2 in reading and −12.7 against +2.0 in science (`results/python/tables/quartiles_*.csv`). These are the Python estimates. The corresponding R estimates are in `results/r/tables/quartiles_*.csv`; a comparison on the same 36 systems is given below.
 
+## Revision, November 2026
+
+The journal version of the paper (*Did advantaged students really decline most in PISA 2025? The socioeconomic index and the comparability of achievement gaps across cycles*) adds a comparison with an all-item scaling of HOMEPOS (concurrent calibration with partial invariance, as for PISA trend scales), a simulation, and the four-cycle series by comparability level of the items. Their code and result tables are in [`revision_2026/`](revision_2026/README.md); the main pipeline below is unchanged.
+
 ## What is in the repository
 
 | Folder | Content |
@@ -33,6 +37,7 @@ The same comparison gives −16.9 against −2.2 in reading and −12.7 against 
 | `validation/` | Comparison of the current Python and R outputs |
 | `results/validation/` | Comparison results and input hashes |
 | `reference/` | OECD reference documents, parameter tables and World Bank GDP data |
+| `revision_2026/` | Code and tables added for the journal version (all-item scaling, simulation, item comparability) |
 | `assets/fonts/` | Fonts used in the figures |
 
 Tables and figures are supplied so the results can be read without running either workflow. Internal audit reports, diagnostics and historical snapshots live in the Git-ignored `audit/` directory.

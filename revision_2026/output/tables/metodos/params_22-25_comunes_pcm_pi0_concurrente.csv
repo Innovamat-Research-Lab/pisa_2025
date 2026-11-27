@@ -1,0 +1,17 @@
+set,item,etiqueta,a,b,fijo,n_grupos,grupos,modelo
+0,room,room,1.0,-2.0609,False,108,,pool
+1,computer,computer,1.0,-2.5887,False,110,,pool
+2,software,software,1.0,-1.3036,False,110,,pool
+3,internet,internet,1.0,-3.7143,False,110,,pool
+4,art,art,1.0,-0.9502,False,108,,pool
+5,tvs,tvs,1.0,-3.6573;0.3594,False,110,,pool
+6,cars,cars,1.0,-1.5630;-0.2287;1.0377,False,109,,pool
+7,bathrooms,bathrooms,1.0,-3.0813;0.3871;1.6651,False,106,,pool
+8,tablets,tablets,1.0,-0.8785;1.3289,False,110,,pool
+9,ereaders,ereaders,1.0,1.4305;2.4416,False,110,,pool
+10,instruments,instruments,1.0,0.2453;0.7601;0.2123,False,110,,pool
+11,books,books,1.0,-0.3196;-0.6358;0.8106;0.7793;1.4639,False,110,,pool
+12,own_phone,own_phone,1.0,-4.2313,False,110,,pool
+13,toilets,toilets,1.0,-2.6361;-0.1282;1.2618,False,105,,pool
+14,desktops,desktops,1.0,-0.5814;1.9219;2.4906,False,110,,pool
+15,laptops,laptops,1.0,-2.0541;0.6385;2.3569,False,110,,pool

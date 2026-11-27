@@ -1,0 +1,17 @@
+set,item,etiqueta,a,b,fijo,n_grupos,grupos,modelo
+0,room,room,0.839714842617244,-2.4756,False,108,,pool
+1,computer,computer,1.4544863190797719,-2.1145,False,110,,pool
+2,software,software,0.8789965930720469,-1.5190,False,110,,pool
+3,internet,internet,1.292746075675693,-3.2362,False,110,,pool
+4,art,art,1.030012115445296,-0.9865,False,108,,pool
+5,tvs,tvs,0.6874972285105184,-5.0566;0.4840,False,110,,pool
+6,cars,cars,0.7607709164291822,-1.9991;-0.3300;1.3356,False,109,,pool
+7,bathrooms,bathrooms,1.436619232232026,-2.7069;0.2833;1.6234,False,106,,pool
+8,tablets,tablets,0.9082564153816418,-1.0301;1.5390,False,110,,pool
+9,ereaders,ereaders,0.7205691502830851,1.9491;3.3026,False,110,,pool
+10,instruments,instruments,0.42876651023100143,0.8267;1.4759;-0.2174,False,110,,pool
+11,books,books,0.3426726900860985,0.1112;-1.7082;1.8971;1.2594;2.7073,False,110,,pool
+12,own_phone,own_phone,1.1453001705104926,-3.9775,False,110,,pool
+13,toilets,toilets,1.2983368506545496,-2.5234;-0.1645;1.2828,False,105,,pool
+14,desktops,desktops,0.7488193835846131,-0.7781;2.5272;3.2935,False,110,,pool
+15,laptops,laptops,1.3557317110126867,-1.8941;0.5654;2.2607,False,110,,pool
